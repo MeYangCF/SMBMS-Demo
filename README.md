@@ -55,7 +55,7 @@ SMBMS-Demo
 3. 配置数据库连接（修改数据库配置文件）
 4. 使用 Maven 构建项目：`mvn clean package`
 5. 将生成的 WAR 包部署到 Tomcat
-6. 访问系统：`http://47.122.83.43:8080/SMBMS-Demo`
+6. 访问系统：http://47.122.83.43:38080/SMBMS-Demo
 
 ## 项目特点
 - 采用经典的三层架构设计
