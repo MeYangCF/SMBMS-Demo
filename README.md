@@ -3,6 +3,8 @@
 ## 项目介绍
 SMBMS-Demo 是一个基于 Java Web 技术开发的超市订单管理系统演示项目。该系统主要用于管理超市的供应商信息、商品信息、用户管理等核心业务功能。
 
+在线访问：http://47.122.83.43/:38080/SMBMS-Demo
+
 ## 技术栈
 - **后端框架**：Java Servlet + JSP
 - **数据库**：MySQL
@@ -55,7 +57,7 @@ SMBMS-Demo
 3. 配置数据库连接（修改数据库配置文件）
 4. 使用 Maven 构建项目：`mvn clean package`
 5. 将生成的 WAR 包部署到 Tomcat
-6. 访问系统：http://47.122.83.43:38080/SMBMS-Demo
+6. 访问系统：http://localhost:8080/SMBMS-Demo
 
 ## 项目特点
 - 采用经典的三层架构设计
